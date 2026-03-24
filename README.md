@@ -5,7 +5,7 @@
 
 <img src="https://github.com/user-attachments/assets/1146ee02-d36e-4b02-883d-a0375823e5df" width="400px">
 
-- Cybersecurity is the technology/process are designed to protect network, device, program or data from the attack. It's very improtant. Because if your systems are attacked. It will be hard to recover the damage. So, what it the issue. It is `cyber attacks`.
+- Cybersecurity is the technology/process are designed to protect network, device, program or data from the attack. It's very improtant. Because if your systems are attacked. It will be hard to recover the damage. So, what is the issue. It is `cyber attacks`.
 
 <img src="https://github.com/user-attachments/assets/94455a7a-dc76-4af0-9628-1e9539578cfd" width="400px">
 <img src="https://github.com/user-attachments/assets/8557f78d-5a53-49ba-9c82-7f8b02be602c" width="400px">
